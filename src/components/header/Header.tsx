@@ -13,7 +13,7 @@ import { auth } from '../../firebase/firabseConfig';
 const Header: React.FC<IHeaderProps> = ({ currentUser, hidden }) => (
     <div className={styles.header}>
         <Link className={styles.logoContainer} to="/">
-            <img src={Logo} alt="" className={styles.logo} style={{ width: '50px', height: '50px' }} />
+            <img src={Logo} alt="" className={styles.logo} style={{ width: '100px', height: '80px' }} />
         </Link>
         <div className={styles.options}>
             <Link className={styles.option} to="/shop">
