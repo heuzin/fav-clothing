@@ -1,6 +1,6 @@
 # Fav-Clothing
 
-This is a sample JavaScript/React Expensify app done step-by-step.
+This is a sample JavaScript/React Create React App app done step-by-step.
 
 Check the demo hosted on https://fav-clothing.vercel.app/.
 
